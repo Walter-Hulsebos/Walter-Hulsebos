@@ -47,5 +47,4 @@ A set of easy to use, explicit Singletons.
 <!--
 ## Assets
 -->
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=Walter-Hulsebos&theme=dark&show_icons=true)](https://github.com/Walter-Hulsebos/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Walter-Hulsebos&count_private=true&border_color=30363D&bg_color=0D1117&text_color=c9d1d9)](https://github.com/Walter-Hulsebos/github-readme-stats)
