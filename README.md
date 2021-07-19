@@ -30,8 +30,8 @@ If you're interested in any of the projects, and would prefer me to work on spec
 
 A set of easy to use, explicit Singletons.
 
-[![](https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utilities.Singletons.png)](https://github.com/Walter-Hulsebos/Utilities.Singleton)
-
+[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utilities.Singleton.png" width="444" height="222">](https://github.com/Walter-Hulsebos/Utilities.Singleton)
+  
 <!--
 ### Multitons
 -->
