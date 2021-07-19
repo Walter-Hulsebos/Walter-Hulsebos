@@ -19,11 +19,13 @@ If you're interested in any of the projects, and would prefer me to work on spec
 [![Sponsor](https://img.shields.io/github/sponsors/Walter-Hulsebos?color=EDAE49&label=Sponsor&logo=ko-fi&logoColor=FFFFFF&style=for-the-badge)](https://ko-fi.com/walterhulsebos)
 [![Discord](https://img.shields.io/discord/763171539763462144?color=D1495B&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/S9wHQ96)
 
-# Unity Packages
+# Unity Packages (CGTK)
 
 ## Utilities
+<details>
+<summary> (<i>click to expand</i>) </summary>
 
-### Utilities.Singletons
+### Singletons
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/Walter-Hulsebos/Utilities.Singletons?color=12261E&logo=github&style=flat-square)
 
 A set of easy to use, explicit Singletons.
@@ -31,20 +33,27 @@ A set of easy to use, explicit Singletons.
 [![](https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utilities.Singletons.png)](https://github.com/Walter-Hulsebos/Utilities.Singleton)
 
 <!--
-### Utilities.Singletons
+### Multitons
 -->
+  
+</details>
 
-<!--
 ## Tools
+<details>
+<summary> (<i>click to expand</i>) </summary>
 
-### Tools.Custom-ScriptTemplates
+### Custom-ScriptTemplates
 
-### Tools.Custom-MenuLayouts
+### Custom-MenuLayouts
 
-### Tools.Custom-Folders
+### Custom-Folders
+</details>
+
+<!--
+<details>
+<summary> <b>Assets</b> </summary>
 -->
 
 <!--
-## Assets
--->
 [![Stats](https://github-readme-stats.vercel.app/api?username=Walter-Hulsebos&count_private=true&border_color=30363D&bg_color=0D1117&text_color=c9d1d9)](https://github.com/Walter-Hulsebos/github-readme-stats)
+-->
