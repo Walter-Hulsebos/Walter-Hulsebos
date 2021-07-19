@@ -26,7 +26,7 @@ If you're interested in any of the projects, and would prefer me to work on spec
 <summary> (<i>click to expand</i>) </summary>
 
 ### Singletons
-![GitHub package.json version](https://img.shields.io/github/package-json/v/Walter-Hulsebos/Utilities.Singletons?color=12261E&logo=github&style=flat-square)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Walter-Hulsebos/Utilities.Singletons?color=2EA043&logo=github&style=flat-square)
 
 A set of easy to use, explicit Singletons.
 
