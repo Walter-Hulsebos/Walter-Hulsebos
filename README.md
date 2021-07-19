@@ -15,17 +15,16 @@ If you're interested in any of the projects, and would prefer me to work on spec
 
 </details>
 
-[![Discord](https://img.shields.io/discord/763171539763462144?color=%237289DA&label=discord&logo=discord&style=for-the-badge)](https://discord.gg/S9wHQ96)
-[![Paypal](https://img.shields.io/badge/sponsor_the_project-donate-E12C9A.svg?style=for-the-badge)](https://paypal.me/walthaynes)
-![Follow me](https://img.shields.io/github/followers/Walter-Hulsebos?color=%23ffb325&label=Follow%20me%21&style=for-the-badge)
+[![Follow](https://img.shields.io/twitter/follow/Lockyaw?color=006992&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge)](https://twitter.com/Lockyaw)
+[![Sponsor](https://img.shields.io/github/sponsors/Walter-Hulsebos?color=EDAE49&label=Sponsor&logo=ko-fi&logoColor=FFFFFF&style=for-the-badge)](https://ko-fi.com/walterhulsebos)
+[![Discord](https://img.shields.io/discord/763171539763462144?color=D1495B&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/S9wHQ96)
 
 # Unity Packages
 
 ## Utilities
 
 ### Utilities.Singletons
-![](https://img.shields.io/badge/Status-Finished-green.svg)
-![](https://img.shields.io/badge/Project%20released%3F-Not%20yet-orange.svg)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Walter-Hulsebos/Utilities.Singletons?color=12261E&logo=github&style=flat-square)
 
 A set of easy to use, explicit Singletons.
 
@@ -49,4 +48,4 @@ A set of easy to use, explicit Singletons.
 ## Assets
 -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Walter-Hulsebos)](https://github.com/Walter-Hulsebos/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Walter-Hulsebos&theme=dark&show_icons=true)](https://github.com/Walter-Hulsebos/github-readme-stats)
