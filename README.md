@@ -44,14 +44,14 @@ A smoother experience of working with (multiple) scenes.
 
 A set of easy to use, explicit Singletons.
 
-[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utils.Singleton.png" width="444" height="222">](https://github.com/Common-Games/Utils.Singletons)
+[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utils.Singletons.png" width="444" height="222">](https://github.com/Common-Games/Utils.Singletons)
 
 ### Extensions
-![GitHub package.json version](https://img.shields.io/github/package-json/v/Common-Games/Utils.Scenes?color=2EA043&logo=github&style=flat-square)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Common-Games/Utils.Extensions?color=2EA043&logo=github&style=flat-square)
 
 Our set of shared extension methods and static utility methods.
   
-[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utils.Scenes.png" width="444" height="222">](https://github.com/Common-Games/Utils.Scenes)
+[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utils.Extensions.png" width="444" height="222">](https://github.com/Common-Games/Utils.Extensions)
   
 <!--
 ### Multitons
