@@ -25,12 +25,33 @@ If you're interested in any of the projects, and would prefer me to work on spec
 <details>
 <summary> (<i>click to expand</i>) </summary>
 
+### Preload
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Common-Games/Utils.Preload?color=2EA043&logo=github&style=flat-square)
+
+An extra project setting that allows you to make sure certain assets are loaded before the first scene.
+  
+[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utils.Preload.png" width="444" height="222">](https://github.com/Common-Games/Utils.Preload)
+
+### Scenes
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Common-Games/Utils.Scenes?color=2EA043&logo=github&style=flat-square)
+
+A smoother experience of working with (multiple) scenes.
+  
+[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utils.Scenes.png" width="444" height="222">](https://github.com/Common-Games/Utils.Scenes)
+  
 ### Singletons
-![GitHub package.json version](https://img.shields.io/github/package-json/v/Walter-Hulsebos/Utilities.Singletons?color=2EA043&logo=github&style=flat-square)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Common-Games/Utils.Singletons?color=2EA043&logo=github&style=flat-square)
 
 A set of easy to use, explicit Singletons.
 
-[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utilities.Singleton.png" width="444" height="222">](https://github.com/Walter-Hulsebos/Utilities.Singletons)
+[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utils.Singleton.png" width="444" height="222">](https://github.com/Common-Games/Utils.Singletons)
+
+### Extensions
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Common-Games/Utils.Scenes?color=2EA043&logo=github&style=flat-square)
+
+Our set of shared extension methods and static utility methods.
+  
+[<img src="https://raw.githubusercontent.com/Walter-Hulsebos/Walter-Hulsebos/stable/pics/Utils.Scenes.png" width="444" height="222">](https://github.com/Common-Games/Utils.Scenes)
   
 <!--
 ### Multitons
